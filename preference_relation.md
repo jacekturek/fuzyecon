@@ -14,6 +14,10 @@ Instead of choosing I prpose to introduce fuzzy logig with some functions wchich
 
 > variables <- set(preference = c(x=20, y=30, z=50), sd = 2)
 
+Fuzzy rule may be which vector (shopping cart) is selected:
+
+....... code
+
 The example of fuzzy function is normal function with any standard deviation:
 
 (img will be here from R)
