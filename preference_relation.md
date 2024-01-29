@@ -23,7 +23,7 @@ The conditions:
 * connected
 
 can be reflected in the fuzzy logic, on OX vector (shift).
-> In R this is a *fuzzy partition*.
+> ℹ️ In R this is a *fuzzy partition*.
 
 Various sets (shopping carts) which are fuzzy functions are tohether
 > preference *field*
