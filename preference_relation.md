@@ -32,6 +32,4 @@ For the shopping carts where
 > x <= y AND x >= x
 
 The relation is the indifference relation
-which can mean that
-
-> the plots overlap.
+which can mean that 
