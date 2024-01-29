@@ -35,3 +35,9 @@ The relation is the indifference relation
 which can mean that 
 
 > there is no chart.
+
+Similar plot and fuzzy set functions are for the 
+
+> indiffernce relations
+
+which is set of goods (fuzzy) for the vectors (shopping carts) which are equally prefered (*indifference relation*).
