@@ -34,7 +34,7 @@ For the shopping carts where
 The relation is the indifference relation
 which can mean that 
 
-> there is no chart.
+> there is no plot.
 
 Similar plot and fuzzy set functions are for the 
 
