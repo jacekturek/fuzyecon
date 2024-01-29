@@ -1,0 +1,2 @@
+# fuzyecon
+fuzzy logic economics
