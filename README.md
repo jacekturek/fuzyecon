@@ -1,5 +1,5 @@
 # fuzyecon
-Mathematical economics can be written i R. I want to use 2 tools:
+Mathematical economics can be written i R (simulations). I want to use 2 tools:
 
 * R language
 * and GNU octave
