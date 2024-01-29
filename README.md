@@ -1,7 +1,7 @@
 # fuzyecon
 Mathematical economics can be written i R (simulations). I want to use 2 tools:
 
-* R language
+* R language (sets library)
 * and GNU octave
 
 to use AI = fuzzy sets to describe the formulas rather than with simulations.
