@@ -1,5 +1,4 @@
 # fuzyecon
-fuzzy logic economics
 Mathematical economics can be written i R. I want to use 2 tools:
 
 * R language
