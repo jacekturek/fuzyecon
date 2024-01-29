@@ -1,6 +1,6 @@
 Preference relation - weak
 
-Two sets of goods (shopping carts) are comparable with the use of preference relation >= (not worse than).
+Two sets of goods (shopping carts) are comparable with the use of preference relation ≽ (not worse than).
 The set of goods vectorX ≽ vectorY
 
 Instead of choosing I prpose to introduce fuzzy logig with some functions wchich will signfy:
