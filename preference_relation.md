@@ -12,7 +12,7 @@ Instead of choosing I prpose to introduce fuzzy logig with some functions wchich
 > y = "vegetables, water"
 > z = "bread"
 
-> preference_rel = fuzzy_partition(varnames = c(cold = 20, good = 30, hot = 50), FUN = fuzzy_normal, sd = 2.0)
+> preference_rel = fuzzy_partition(varnames = c(vectorX = 20, vectorY = 30, vectorZ = 50), FUN = fuzzy_normal, sd = 2.0)
 
 The example of fuzzy function is normal function with any standard deviation:
 
