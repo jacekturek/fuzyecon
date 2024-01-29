@@ -25,7 +25,7 @@ The conditions:
 can be reflected in the fuzzy logic, on OX vector (shift).
 > ℹ️ In R this is a *fuzzy partition*.
 
-Various sets (shopping carts) which are fuzzy functions are tohether
+Various vectors (shopping carts) which are fuzzy functions are tohether
 > preference *field*
 
 For the shopping carts where 
