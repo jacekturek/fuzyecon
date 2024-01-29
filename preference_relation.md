@@ -27,3 +27,11 @@ can be reflected in the fuzzy logic, on OX vector (shift).
 
 Various sets (shopping carts) which are fuzzy functions are tohether
 > preference *field*
+
+For the shopping carts where 
+> x <= y AND x >= x
+
+The relation is the indifference relation
+which can mean that
+
+> the plots overlap.
