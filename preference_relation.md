@@ -12,15 +12,11 @@ Instead of choosing I prpose to introduce fuzzy logig with some functions wchich
 > y = "vegetables, water"
 > z = "bread"
 
-> variables <- set(preference = c(x=20, y=30, z=50), sd = 2)
-
-Fuzzy rule may be which vector (shopping cart) is selected:
-
-....... code
+> preference_rel = fuzzy_partition(varnames = c(cold = 20, good = 30, hot = 50), FUN = fuzzy_normal, sd = 2.0)
 
 The example of fuzzy function is normal function with any standard deviation:
 
-(img will be here from R)
+![image](https://github.com/jacekturek/fuzyecon/assets/62720909/505e0c4a-7087-4389-b7fd-56ea2d0db8a5)
 
 The conditions:
 * transitive
