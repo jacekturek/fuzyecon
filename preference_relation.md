@@ -1,4 +1,4 @@
-Preference relation - weak
+*Preference relation - weak*
 
 Two sets of goods (shopping carts) are comparable with the use of preference relation ≽ (not worse than).
 The set of goods vectorX ≽ vectorY
