@@ -15,4 +15,4 @@ The conditions:
 * connected
 
 can be reflected in the fuzzy logic, on OX vector (shift).
-> In R this is a *fuzzy rule*.
+> In R this is a *fuzzy partition*.
