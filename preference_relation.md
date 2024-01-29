@@ -9,7 +9,7 @@ Instead of choosing I prpose to introduce fuzzy logig with some functions wchich
 > y = "vegetables, water"
 > z = "bread"
 
-> variables <- set(preference = fuzzy_partition = c(x=20, y=30, z=50))
+> variables <- set(preference = c(x=20, y=30, z=50), sd = 2)
 
 * OX: how prefered is vectorX (over some other goods)
 * OY: [0,1] factor (normal fuzzy set functions).
