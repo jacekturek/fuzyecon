@@ -3,7 +3,7 @@
 Two sets of goods (shopping carts) are comparable with the use of preference relation ≽ (not worse than).
 The set of goods vectorX ≽ vectorY
 
-Instead of choosing [x,y] I prpose to introduce fuzzy logic with some functions wchich will signfy:
+Instead of typical ranking [x,y] I prpose to introduce fuzzy logic with some functions wchich will signfy:
 
 * OX: how prefered is vectorX (over some other goods)
 * OY: [0,1] factor (normal fuzzy set functions).
