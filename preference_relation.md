@@ -38,6 +38,8 @@ which can mean that
 
 > there is no plot.
 
+##
+
 Similar plot and fuzzy set functions are for the 
 
 > indiffernce relations
@@ -47,3 +49,9 @@ which is set of goods (fuzzy set) for the vectors (e.g. shopping carts) which ar
 This set can be called an 
 
 > indifference area (*for any goods vector x*).
+
+##
+
+Imagine several functions for shopping carts vectors x,y,z,..., wchich together make a set M. It will have a number of charts of functions like in the picture (each is a fuzzy function for one shopping cart).
+
+>❗M-prefered cart is the best one (most right function, calculated statistically) - not shown - se above.
