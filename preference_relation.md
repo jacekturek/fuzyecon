@@ -54,4 +54,4 @@ This set can be called an
 
 Imagine several functions for shopping carts vectors x,y,z,..., wchich *together make a set M.* It will have a number of charts of functions like in the picture (each is a fuzzy function for one shopping cart).
 
->❗M-prefered cart is the best one (most right function, calculated statistically) - not shown - se above.
+>❗M-prefered cart is the best one (*most right function, calculated statistically*) - not shown - se above.
