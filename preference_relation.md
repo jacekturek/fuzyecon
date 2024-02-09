@@ -8,9 +8,11 @@ Instead of choosing [x,y] I prpose to introduce fuzzy logic with some functions 
 * OX: how prefered is vectorX (over some other goods)
 * OY: [0,1] factor (normal fuzzy set functions).
 
-> x = "oranges"
-> y = "vegetables, water"
-> z = "bread"
+> ⇨ x = "oranges"
+> 
+> ⇨ y = "vegetables, water"
+> 
+> ⇨ z = "bread"
 
 > preference_rel = fuzzy_partition(varnames = c(vectorX = 20, vectorY = 30, vectorZ = 50), FUN = fuzzy_normal, sd = 2.0)
 
