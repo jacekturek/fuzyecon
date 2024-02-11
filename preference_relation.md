@@ -20,14 +20,14 @@ The example of fuzzy function is normal function with any standard deviation:
 
 ![image](https://github.com/jacekturek/fuzyecon/assets/62720909/505e0c4a-7087-4389-b7fd-56ea2d0db8a5)
 
-The conditions:
+The conditions for preference relation:
 * 🎓 transitive
 * 🎓 connected
 
 can be reflected in the fuzzy logic, on OX vector (shift).
 > ℹ️ In R this is a *fuzzy partition*.
 
-Various vectors (shopping carts) which are fuzzy functions are tohether
+Various goods vectors (shopping carts) which are fuzzy functions are tohether
 > preference *field*
 
 For the shopping carts where 
