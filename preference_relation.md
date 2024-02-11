@@ -44,7 +44,7 @@ Similar plot and fuzzy set functions are for the
 
 > indiffernce relations
 
-which is set of goods (fuzzy set) for the vectors (e.g. shopping carts) which are (both) equally good (*indifference relation*).
+which is set of goods (fuzzy set) for the vectors (e.g. shopping carts) which are (all) equally good (*indifference relation*).
 
 This set can be called an 
 
