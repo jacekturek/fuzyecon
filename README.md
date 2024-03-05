@@ -5,7 +5,7 @@ Mathematical economics can be written in R (simulations).
 
 to use AI = fuzzy sets to describe the formulas 
 
-> ℹ️ rather than with simulations.
+rather than with simulations.
 
 > ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
 > 
