@@ -12,13 +12,13 @@ The scalar mult.
 
 > I - budget limit
 
-The set of 'shopping carts' like
-> all Vectors for which the <= conditon is true
-is not a fuzzy set of cours but the set is important in math. economics and called the
+The set of 'shopping carts' likeall Vectors for which the <= conditon is true
+is not a fuzzy set of cours but the set is important in math. economics and called
+
 > budget
 
 The set where the VectorX ⊕ VecorY = I, is called the budget field.
 
-The fuzzy sets can be a research tool also for budget.
+The fuzzy sets can be a research tool also here:
 
 (...)
