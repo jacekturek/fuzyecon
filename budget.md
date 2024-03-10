@@ -24,3 +24,6 @@ The fuzzy sets can be a research tool also here:
 > a fuzzy partition shows budget limitations:
 
 ![image](https://github.com/jacekturek/fuzyecon/assets/62720909/c45da371-3361-4be9-8f79-ef3141fbd09a)
+
+The Z(VecP,I)-optimal shopping cart is a Vector within the budget
+> for which any other cart is worse (perf. rel is in other part).
