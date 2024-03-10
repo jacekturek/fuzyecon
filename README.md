@@ -8,7 +8,7 @@ I want to use:
 
 > ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
 > 
-> ℹ️ fuzzy sets can be a research tool / here for the economics rather than formulas implemented as programms
+> ℹ️ fuzzy sets can be a research tool / here for the economics rather than the formulas implemented as programms
 > 
 > ℹ️ to combine it with the mathematical economics and formulas
 
