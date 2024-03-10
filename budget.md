@@ -21,7 +21,7 @@ The set where the VectorX ⊕ VecorY = I, is called the budget field.
 
 The fuzzy sets can be a research tool also here:
 
-> a fuzzy partition shows budget limitations:
+> a fuzzy partition shows budget fields:
 
 ![image](https://github.com/jacekturek/fuzyecon/assets/62720909/c45da371-3361-4be9-8f79-ef3141fbd09a)
 
