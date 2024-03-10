@@ -8,7 +8,7 @@ Assume the consumer has a budget i.e. amount of money she can spend
 
 The scalar mult. 
 
-> VectorX ⊕ VecorY <= I
+> VectorX ⊕ VecorP <= I
 
 > I - budget limit
 
