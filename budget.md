@@ -19,4 +19,6 @@ is not a fuzzy set of cours but the set is important in math. economics and call
 
 The set where the VectorX ⊕ VecorY = I, is called the budget field.
 
-The fuzzy sets can be a research tool also for budget in this science.
+The fuzzy sets can be a research tool also for budget.
+
+(...)
