@@ -4,7 +4,7 @@ Assume the consumer has a budget i.e. amount of money she can spend
 
 > ❗ the 'shopping cart' VectorX
 
-> ❗the prices VectorP
+> ❗the prices of each unit in VectorX = VectorP
 
 The scalar mult. 
 
@@ -17,9 +17,9 @@ is not a fuzzy set of cours but the set is important in math. economics and call
 
 > budget
 
-The set where the VectorX ⊕ VecorY = I, is called the budget field.
+The set where the VectorX ⊕ VecorY = I (rather than <=), is called the budget field.
 
-The fuzzy sets can be a research tool also here:
+The fuzzy sets can be a research tool also for the budget:
 
 *budget = fuzzy_partition(varnames = c(budg1 = 3, budg2 = 4), FUN = fuzzy_normal, sd = 3.0)*
 
