@@ -12,6 +12,8 @@ I want to use:
 > 
 > ℹ️ to combine it with the mathematical economics and formulas
 
+The AI library is a full fuzzy sets useful toolkit - it can be used in many contexts.
+
 Covers many topics:
 
 * preference relation
