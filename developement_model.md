@@ -1,9 +1,13 @@
 # The waterfall deveoplment model
 
 * sequential approach
+  
   Covers some topics from the sources on Mathematical Economics
+  
 * rigorous planning
+  
   Fuzzy sets used as a research tool for the topics mentioned in the readme
+  
 
 # The model:
 
