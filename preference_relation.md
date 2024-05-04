@@ -43,7 +43,8 @@ Virtually there are many charts, sometimes there is no difference in which I cho
 
 ##
 
-> if vector of goods = x and not y and not x => choose x because no better one is avaiable..
+> if vector of goods = x and not y and not x => choose x because no better one is avaiable.
+
 > 🎓 (this is to explain the relation of preference).
 
 ##
