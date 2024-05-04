@@ -4,15 +4,17 @@ Assume the consumer has a budget i.e. amount of money she can spend
 
 > ❗ the 'shopping cart' VectorX
 
-> ❗the prices of each unit in VectorX = VectorP
+> ❗the prices of each unit in VectorX namely VectorP
 
-The scalar mult. 
+The scalar multiplication:
 
 > VectorX ⊕ VecorP <= I
 
+where
+
 > I - budget limit
 
-The set of 'shopping carts' likeall Vectors for which the <= conditon is true
+The set of 'shopping carts' like all Vectors for which the <= conditon is true
 is not a fuzzy set of cours but the set is important in math. economics and called
 
 > budget
