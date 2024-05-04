@@ -17,4 +17,4 @@
 * design: I think each such case can be 'partially' (mathematically) proved
 * impelementation is R examples
 * the system is the whole description in this documentation with some rsults
-* this is to show the results
+* it's purpose is showing the results
