@@ -1,6 +1,6 @@
 System design for short insight into a project's requirements:
 
-* reqirements: interesting examples from R and economy
-* major components: R compiler, some data and science in economy
-* tests could be statistics but they are ommited
-* deploy: are the results
+* reqirements:  examples from R and economy
+* major components: R compiler, some data 
+* tests could be statistics but they are not here
+* deploy: the results
