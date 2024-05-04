@@ -39,10 +39,9 @@ which can mean that
 
 Virtually there are many charts, sometimes there is no difference in which I choose.
 
-> Other than fuzzy parition is fuzzy rules, I will not introduce it now but fuzzy rule can be someting like:
-
 ##
 
+> Other than fuzzy parition is fuzzy rules, I will not introduce it now but fuzzy rule can be someting like:
 > if vector of goods = x and not y and not x => choose x because no better one is avaiable.
 
 > 🎓 (this is to explain the relation of preference).
