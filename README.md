@@ -4,6 +4,8 @@ I want to use R laguage library for fuzzy sets, and write about
 
 > *fuzzy inference*
 
+##
+
 > ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
 > 
 > ℹ️ fuzzy sets can be a good research tool
