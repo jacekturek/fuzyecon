@@ -8,6 +8,8 @@ Instead of typical ranking [x,y] I prpose to introduce fuzzy logic with some fun
 * OX: how prefered is vectorX (over some other goods)
 * OY: [0,1] factor (normal fuzzy set functions).
 
+This is called fuzzy function which describes how much an element x belongs to a set: (x,f(x)) belongs to A.
+
 > ⇨ x = "oranges"
 > 
 > ⇨ y = "vegetables, water"
@@ -20,12 +22,16 @@ The example of fuzzy function is normal function with any standard deviation:
 
 ![image](https://github.com/jacekturek/fuzyecon/assets/62720909/505e0c4a-7087-4389-b7fd-56ea2d0db8a5)
 
-The conditions for preference relation:
+##
+
+Only to think : the conditions for preference relation:
 * 🎓 transitive
 * 🎓 connected
 
 can be reflected in the fuzzy logic, on OX vector (shift).
 > ℹ️ In R this is a *fuzzy partition*.
+
+##
 
 Various goods vectors (shopping carts) which are fuzzy functions are tohether
 > preference *field*
@@ -35,7 +41,7 @@ For the shopping carts where
 
 The relation is the indifference relation
 which can mean that 
-> there is no plot.
+> there is no plot (assumedly).
 
 Virtually there are many charts, sometimes there is no difference in which I choose.
 
