@@ -16,7 +16,7 @@ where
 
 The set of 'shopping carts' <= I are possible for consumer:
 
-> withing the budget
+> within the budget
 
 The set where the VectorX ⊕ VecorY = I (rather than <=), is called the budget field.
 
