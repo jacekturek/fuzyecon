@@ -1,19 +1,14 @@
 # fuzyecon
-Mathematical economics can be written in R (simulations).
+Mathematical economics can be written in R language.
+I want to use R laguage library for fuzzy sets, and write about
 
-I want to use:
-* R language (sets library)
-* to use AI = fuzzy sets to describe the formulas 
-* rather than with simulations.
+> *fuzzy inference*
 
 > ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
 > 
-> ℹ️ fuzzy sets can be a research tool / here for the economics rather than the formulas implemented as programms
+> ℹ️ fuzzy sets can be a good research tool
 > 
-> ℹ️ to combine it with the mathematical economics and formulas
-
-The AI library is a full fuzzy sets useful toolkit - it can be used in many contexts.
-The key to use fuzzy set library is research tool + theory (fuzzy sets have different possibilites).
+> ℹ️ here to combine it with the mathematical economics and formulas
 
 Here is the description how to use some fuzzy set "sets" features:
 
