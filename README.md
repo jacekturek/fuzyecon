@@ -4,7 +4,10 @@ I want to use R laguage library for fuzzy sets, and write about
 
 > *fuzzy inference*
 
-##
+The ("sets") library in R is a tool for fuzzy sets and fuzzy logic.
+The sets have many features, e.g. fuzzy inference, fuzzy system, fuzzy rules and more.
+
+## 
 
 > ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
 > 
