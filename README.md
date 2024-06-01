@@ -35,8 +35,8 @@ Covers many topics:
 * derivatives in utility function
 
 <br/>
-* Other topics are not included (market model, production, dynamic models).
 
+* Other topics are not included (market model, production, dynamic models).
 * Thank you.
 
 More in the books: 
