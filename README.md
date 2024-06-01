@@ -15,9 +15,9 @@ The sets have many features,
 > 
 > ℹ️ fuzzy sets can be a good research tool
 > 
-> ℹ️ here to combine it with the mathematical economics and formulas
+> ℹ️ combined with the mathematical economics and formulas
 
-Here is the description how to use some fuzzy set "sets" features:
+Here is the description on how to use some features of the fuzzy set "sets" lib:
 
 https://juandes.github.io/FuzzyLogic-R/docs/fuzzy_tutorial
 
@@ -33,9 +33,7 @@ This project covers many topics:
 * utility function
 * demand function
 * derivatives in utility function
-
 <br/>
-
 * Other topics are not included (market model, production, dynamic models).
 * Thank you.
 
