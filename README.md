@@ -29,7 +29,13 @@ Covers many topics:
 
 * preference relation
 * income field
-* ... (here will be more)
+... soon:
+* utility function
+* demand function
+* derivatives in utility function
+
+* Other topics are not included (market model, production, dynamic models).
+* Thank you.
 
 More in the books: 
 
