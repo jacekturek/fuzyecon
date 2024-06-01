@@ -29,11 +29,15 @@ This project covers many topics:
 
 * preference relation
 * income field
+  
 ... soon:
+
 * utility function
 * demand function
 * derivatives in utility function
+
 <br/>
+
 * Other topics are not included (market model, production, dynamic models).
 * Thank you.
 
