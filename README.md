@@ -25,7 +25,7 @@ here, under: fuzzy_inferecne are some details (among other information):
 
 https://cran.r-project.org/web/packages/sets/sets.pdf
 
-Covers many topics:
+This project-demo is covering many topics:
 
 * preference relation
 * income field
