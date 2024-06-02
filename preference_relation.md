@@ -10,7 +10,7 @@ Instead of typical ranking [x,y] I prpose to introduce fuzzy logic with some fun
 
 > Fuzzy set function (element f(element)) - f: how much an element belongs to a set
 
-This is called fuzzy function which describes how much an element x belongs to a set: (x,f(x)) belongs to A.
+This is called fuzzy function.
 
 > ⇨ x = "oranges"
 > 
