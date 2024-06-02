@@ -8,6 +8,8 @@ Instead of typical ranking [x,y] I prpose to introduce fuzzy logic with some fun
 * OX: how prefered is vectorX (over some other goods)
 * OY: [0,1] factor (normal fuzzy set functions).
 
+> Fuzzy set function (element f(element)) - f: how much an element belongs to a set
+
 This is called fuzzy function which describes how much an element x belongs to a set: (x,f(x)) belongs to A.
 
 > ⇨ x = "oranges"
