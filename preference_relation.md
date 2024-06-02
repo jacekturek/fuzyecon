@@ -38,6 +38,8 @@ can be reflected in the fuzzy logic, on OX vector (shift).
 Various goods vectors (shopping carts) which are fuzzy functions are tohether
 > preference *field*
 
+(TODO: pref. field can be modeled e.g. with fuzzy inference).
+
 For the shopping carts where 
 > x <= y AND x >= x
 
