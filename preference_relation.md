@@ -25,8 +25,8 @@ The example of fuzzy function is normal function with any standard deviation:
 ##
 
 Only to think : the conditions for preference relation:
-* 🎓 transitive
-* 🎓 connected
+* 🎓 transitive pRq and qRr => pRr
+* 🎓 connected pRr or rRp
 
 can be reflected in the fuzzy logic, on OX vector (shift).
 > ℹ️ In R this is a *fuzzy partition*.
