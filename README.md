@@ -15,7 +15,7 @@ The sets have many features,
 > 
 > ℹ️ fuzzy sets can be a good research tool
 > 
-> ℹ️ combined with the mathematical economics and formulas
+> ℹ️ combined with the mathematical economics and knowledge
 
 Here is the description on how to use some features of the fuzzy set "sets" lib:
 
