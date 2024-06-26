@@ -20,7 +20,7 @@ The set of 'shopping carts' <= I are possible for consumer:
 
 The set where the VectorX ⊕ VecorY = I (rather than <=), is called the budget field.
 
-The fuzzy sets can be a good model of buget (fields):
+The fuzzy sets can be a good model of buget:
 
 *budget = fuzzy_partition(varnames = c(budg1 = 3, budg2 = 4), FUN = fuzzy_normal, sd = 3.0)*
 
