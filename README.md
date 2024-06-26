@@ -14,15 +14,15 @@ The ("sets") library in R is a tool where fuzzy logic is implemented.
 
 > ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
 > 
-> ℹ️ fuzzy sets can be a good research tool
+> ℹ️ fuzzy sets can be a good research helper
 > 
-> ℹ️ combined with the mathematical economics and knowledge
+> ℹ️ combined with the mathematical economics will show some relationships in data
 
 Here is the description on how to use some features of the fuzzy set "sets" lib:
 
 https://juandes.github.io/FuzzyLogic-R/docs/fuzzy_tutorial
 
-here, under: fuzzy_inferecne are some details (among other information):
+here, under: fuzzy_inferecne are some details about how to use it:
 
 https://cran.r-project.org/web/packages/sets/sets.pdf
 
