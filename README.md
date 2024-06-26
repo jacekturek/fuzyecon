@@ -1,11 +1,12 @@
 # fuzyecon
-Mathematical economics can be written in R language.
+Mathematical economics is some system of formulas and models for economic science.
 I want to use R laguage library for fuzzy sets, and write about
 
 > *fuzzy inference*
 
-The ("sets") library in R is a tool for fuzzy sets fuzzy logic etc.
-The sets have many features, 
+in this context.
+
+The ("sets") library in R is a tool where fuzzy logic is implemented.
 
 > e.g. fuzzy inference, fuzzy system, fuzzy rules and other tools.
 
