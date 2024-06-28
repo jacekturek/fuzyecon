@@ -18,7 +18,7 @@ This is called fuzzy function.
 > 
 > ⇨ z = "bread"
 
- or
+ or in terms of categorization:
 
 > shoppingcart <- factor(c("oranges","vegetables,water","bread"))
 > 
@@ -28,7 +28,7 @@ This is called fuzzy function.
 >         
 > Levels: bread oranges vegetables,water
 
-normally, consider this:
+normally:
 
 > shoppingcart <- data.frame(cart=factor(c("oranges","vegetables,water","bread")))
 >
@@ -45,7 +45,7 @@ normally, consider this:
 > 3            bread       1
 > 
 
-now, the fuzzy sets library:
+now, the fuzzy sets:
 
 > 📝 preference_rel = fuzzy_partition(varnames = c(vectorX = 20, vectorY = 30, vectorZ = 50), FUN = fuzzy_normal, sd = 2.0)
 
