@@ -28,6 +28,18 @@ This is called fuzzy function.
 >         
 > Levels: bread oranges vegetables,water
 
+normally, consider this:
+
+> shoppingcart <- data.frame(cart=factor(c("oranges","vegetables,water","bread")))
+>
+> shoppingcart$ranking <- c(0,1,1)
+
+> shoppingcart
+>               cart ranking
+> 1          oranges       0
+> 2 vegetables,water       1
+> 3            bread       1
+
 now, the fuzzy sets library:
 
 > 📝 preference_rel = fuzzy_partition(varnames = c(vectorX = 20, vectorY = 30, vectorZ = 50), FUN = fuzzy_normal, sd = 2.0)
