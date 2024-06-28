@@ -36,9 +36,13 @@ normally, consider this:
 
 > shoppingcart
 >               cart ranking
+> 
 > 1          oranges       0
+> 
 > 2 vegetables,water       1
+> 
 > 3            bread       1
+> 
 
 now, the fuzzy sets library:
 
