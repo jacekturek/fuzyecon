@@ -10,7 +10,7 @@ Instead of typical ranking [x,y] I prpose to introduce fuzzy logic with some fun
 
 > Fuzzy set function (element f(element)) - f: how much an element belongs to a set
 
-This is called fuzzy function.
+This is called fuzzy functions.
 
 > ⇨ x = "oranges"
 > 
@@ -18,7 +18,7 @@ This is called fuzzy function.
 > 
 > ⇨ z = "bread"
 
- or in terms of categorization:
+ or in terms of data categorization:
 
 > shoppingcart <- factor(c("oranges","vegetables,water","bread"))
 > 
@@ -28,7 +28,7 @@ This is called fuzzy function.
 >         
 > Levels: bread oranges vegetables,water
 
-normally:
+normally, without fuzzy logic:
 
 > shoppingcart <- data.frame(cart=factor(c("oranges","vegetables,water","bread")))
 >
@@ -45,7 +45,7 @@ normally:
 > 3            bread       1
 > 
 
-now, the fuzzy sets:
+now, the fuzzy sets can help:
 
 > 📝 preference_rel = fuzzy_partition(varnames = c(vectorX = 20, vectorY = 30, vectorZ = 50), FUN = fuzzy_normal, sd = 2.0)
 
