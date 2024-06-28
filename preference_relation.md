@@ -35,7 +35,7 @@ normally, consider this:
 > shoppingcart$ranking <- c(0,1,1)
 
 > shoppingcart
-> 
+
 >               cart ranking
 > 
 > 1          oranges       0
