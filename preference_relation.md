@@ -36,7 +36,7 @@ normally, consider this:
 
 > shoppingcart
 
->               cart ranking
+>            cart ranking
 > 
 > 1          oranges       0
 > 
