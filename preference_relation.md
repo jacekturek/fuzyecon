@@ -28,7 +28,7 @@ This is called fuzzy function.
 >         
 > Levels: bread oranges vegetables,water
 
-now, the fuzzy sets libray:
+now, the fuzzy sets library:
 
 > 📝 preference_rel = fuzzy_partition(varnames = c(vectorX = 20, vectorY = 30, vectorZ = 50), FUN = fuzzy_normal, sd = 2.0)
 
