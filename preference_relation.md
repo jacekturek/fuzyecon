@@ -21,8 +21,11 @@ This is called fuzzy function.
  or
 
 > shoppingcart <- factor(c("oranges","vegetables,water","bread"))
+> 
 > shoppingcart
-> [1] oranges          vegetables,water bread           
+> 
+> [1] oranges          vegetables,water bread
+>         
 > Levels: bread oranges vegetables,water
 
 > 📝 preference_rel = fuzzy_partition(varnames = c(vectorX = 20, vectorY = 30, vectorZ = 50), FUN = fuzzy_normal, sd = 2.0)
