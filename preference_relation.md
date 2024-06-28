@@ -5,7 +5,7 @@ The set of goods vectorX ≽ vectorY
 
 Instead of typical ranking [x,y] I prpose to introduce fuzzy logic with some functions wchich will signfy:
 
-* OX: comparison of shopping carts (vectorN) (over some other goods)
+* OX: how much a shopping car is prefered (over some other goods)
 * OY: [0,1] factor (normal fuzzy set functions).
 
 > Fuzzy set function (element f(element)) - f: how much an element belongs to a set [0 to 1]
