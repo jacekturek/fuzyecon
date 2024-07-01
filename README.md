@@ -8,15 +8,15 @@ in this context.
 
 The ("sets") library in R is a tool where fuzzy logic is implemented.
 
-> e.g. fuzzy inference, fuzzy system, fuzzy rules and other tools.
+> e.g. fuzzy inference, fuzzy system, fuzzy rules and other.
 
 ## 
 
 > ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
 > 
-> ℹ️ fuzzy sets can be a good research helper
+> ℹ️ fuzzy sets can be a good research idea
 > 
-> ℹ️ combined with the mathematical economics will show some relationships in data
+> ℹ️ combined with the mathematical economics will show some insights into the AI
 
 Here is the description on how to use some features of the fuzzy set "sets" lib:
 
@@ -31,7 +31,7 @@ This project covers many topics:
 * preference relation
 * income field
   
-... soon:
+... soon will be also:
 
 * utility function
 * demand function
@@ -42,6 +42,6 @@ This project covers many topics:
 * Other topics are not included (market model, production, dynamic models).
 * Thank you.
 
-More in the books: 
+More you can read in the books: 
 
 https://www.ksiegarnia.beck.pl/3934-ekonomia-matematyczna-materialy-do-cwiczen-joanna-gorka
