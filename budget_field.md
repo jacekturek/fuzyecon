@@ -6,17 +6,17 @@ Assume the consumer has a budget i.e. amount of money she can spend
 
 > ❗the prices of each unit in VectorX namely VectorP
 
-The scalar multiplication:
+Consider the scalar multiplication:
 
 > VectorX ⊕ VecorP <= I
 
 where
 
-> I - budget limit
+> I = budget limit
 
-The set of 'shopping carts' <= I are possible for consumer:
+The set of 'shopping carts' for which ... ⊕ ... <= I are possible for consumer:
 
-> within the budget
+> are => within the budget
 
 The set where the VectorX ⊕ VecorY = I (rather than <=), is called the budget field.
 
