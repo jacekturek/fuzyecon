@@ -2,7 +2,7 @@
 Mathematical economics is some system of formulas and models for economic science.
 I want to use R laguage library for fuzzy sets, and write about
 
-> *fuzzy inference*
+> *AI and fuzzy logic*
 
 in this context.
 
