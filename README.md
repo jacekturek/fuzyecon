@@ -30,12 +30,9 @@ https://cran.r-project.org/web/packages/sets/sets.pdf
 
 This project covers many topics:
 
-* preference relation
-* income field
-* utility function
-* demand function
+* demand theory
 * market model
-* production theory
+* production 
 * dynamic models
 
 * Thank you.
