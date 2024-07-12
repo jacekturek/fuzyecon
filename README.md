@@ -10,7 +10,7 @@ The ("sets") library in R is a tool where fuzzy logic is implemented.
 
 > e.g. fuzzy inference, fuzzy system, fuzzy rules and other.
 
-It is iteresting to learn about the fuzzy sets and the features in the library because the sets can be used in broad contexts as a tool for economical modeling (like as AI-implementation of econometric models).
+It is iteresting to learn about the fuzzy sets and the features as well as fuzzy logic methods to use AI in econometric modeling.
 
 ## 
 
