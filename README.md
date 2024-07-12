@@ -32,18 +32,14 @@ This project covers many topics:
 
 * preference relation
 * income field
-  
-... soon will be also:
-
 * utility function
 * demand function
-* derivatives in utility function
+* market model
+* production theory
+* dynamic models
 
-<br/>
-
-* Other topics are not included (market model, production, dynamic models).
 * Thank you.
 
-More you can read in the books: 
+More: 
 
 https://www.ksiegarnia.beck.pl/3934-ekonomia-matematyczna-materialy-do-cwiczen-joanna-gorka
