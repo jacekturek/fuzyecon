@@ -32,6 +32,8 @@ This project covers demo for:
 
 * demand theory
 
+and uses fuzzy sets.
+
 Other topics are not included:
 
 * market model
