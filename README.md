@@ -28,9 +28,12 @@ here, under: fuzzy_inferecne are some details about how to use it:
 
 https://cran.r-project.org/web/packages/sets/sets.pdf
 
-This project covers many topics:
+This project covers demo for:
 
 * demand theory
+
+Other topics are not included:
+
 * market model
 * production 
 * dynamic models
