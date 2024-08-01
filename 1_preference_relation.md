@@ -78,7 +78,7 @@ The relation is the indifference relation
 which can mean that 
 > there is no plot - assumedly.
 
-Virtually there are many charts, sometimes there is no difference in which I choose.
+Virtually there are many carts, sometimes there is no difference in which I choose.
 
 ##
 
