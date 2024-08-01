@@ -32,7 +32,9 @@ This project covers demo for:
 
 * demand theory
 
-and uses fuzzy sets.
+and uses fuzzy sets. 
+
+> Fuzzy sets features for modeling.
 
 Other topics are not included:
 
