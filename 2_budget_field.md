@@ -14,13 +14,13 @@ where
 
 > I = budget limit
 
-The set of 'shopping carts' for which ... ⊕ ... <= I are possible for consumer:
+The set of 'shopping carts' for which ... ⊕ ... <= I are called to be possible for consumer:
 
-> are => within the budget
+> these "shopping carts" are => within the budget
 
-The set where the VectorX ⊕ VecorY = I (rather than <=), is called the budget field.
+The set where the VectorX ⊕ VecorY = I (rather than <=), is called *budget field*.
 
-The fuzzy sets can be a good model of buget:
+The fuzzy sets can be a good for showing budgets:
 
 *budget = fuzzy_partition(varnames = c(budg1 = 3, budg2 = 4), FUN = fuzzy_normal, sd = 3.0)*
 
