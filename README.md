@@ -31,6 +31,11 @@ https://cran.r-project.org/web/packages/sets/sets.pdf
 This project covers demo for:
 
 * demand theory
+  * preference relations, 
+  * budget field,
+  * utility function,
+  * demand function,
+  * derivatives in utility function 
 
 and uses fuzzy sets. 
 
