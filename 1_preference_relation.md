@@ -99,6 +99,12 @@ This set can be called an
 
 > indifference area (*for any goods vector x*).
 
+Statistically I add some fuzzy LOGIC like negation:
+
+> > .N.(c(1,1,2,6))
+> [1]  0  0 -1 -5
+
+
 ##
 
 Imagine several functions for shopping carts vectors x,y,z,..., wchich *together make a set M.* This is as well a set of fuzzy set functions like in the picture (each is a fuzzy function for one shopping cart).
