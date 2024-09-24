@@ -105,6 +105,7 @@ Statistically I add some fuzzy LOGIC like negation:
 
 > [1]  0  0 -1 -5
 
+for the previous data.
 
 ##
 
