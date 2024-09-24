@@ -18,6 +18,15 @@ The set of 'shopping carts' for which ... ⊕ ... <= I are called to be possible
 
 > these "shopping carts" are => within the budget
 
+> #vegetables, bread+water, oranges
+> 
+> A <- gset(letters[1:3], memberships = c(1,3,2))
+> 
+> plot(A)
+
+![image](https://github.com/user-attachments/assets/8a17cf9c-ea16-4bae-b38c-e37a89e73f70)
+
+
 The set where the VectorX ⊕ VecorY = I (rather than <=), is called *budget field*.
 
 The fuzzy sets are good for showing budgets:
