@@ -107,5 +107,7 @@ Imagine several functions for shopping carts vectors x,y,z,..., wchich *together
 
 TO be more creative in modeling, as models are contepoarary stories about economics, I want again fuzzy_parition for M-preferred chart of goods:
 
+> m_pref = fuzzy_partition(varnames = c(x = 1 , y=2, z=1), FUN = fuzzy_cone, radius = 8)
+
 ![image](https://github.com/user-attachments/assets/058eba74-c306-4cd7-9a1b-bf7900a83f2d)
 
