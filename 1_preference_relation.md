@@ -101,7 +101,8 @@ This set can be called an
 
 Statistically I add some fuzzy LOGIC like negation:
 
-> > .N.(c(1,1,2,6))
+> .N.(c(1,1,2,6))
+
 > [1]  0  0 -1 -5
 
 
