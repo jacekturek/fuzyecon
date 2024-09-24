@@ -104,3 +104,8 @@ This set can be called an
 Imagine several functions for shopping carts vectors x,y,z,..., wchich *together make a set M.* This is as well a set of fuzzy set functions like in the picture (each is a fuzzy function for one shopping cart).
 
 >❗M-prefered cart is the best one (*most right function, calculated statistically*) - not shown - se above.
+
+TO be more creative in modeling, as models are contepoarary stories about economics, I want again fuzzy_parition for M-preferred chart of goods:
+
+![image](https://github.com/user-attachments/assets/058eba74-c306-4cd7-9a1b-bf7900a83f2d)
+
