@@ -39,3 +39,11 @@ The fuzzy sets are good for showing budgets:
 
 The *Z(VecP,I)-optimal* shopping cart is a Vector within the budget
 > for which any other cart is worse (perf. rel is in other part).
+
+Can looking for the Z(p,I) prefered shopping cart be modeled with fuzzy negation?:
+
+> charts_budg_field <- c(2,2,8)
+> 
+> .N.(charts_budg_field)
+> 
+> [1] -1 -1 -7
