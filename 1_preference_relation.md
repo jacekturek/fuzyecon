@@ -111,7 +111,7 @@ Imagine several functions for shopping carts vectors x,y,z,..., wchich *together
 
 >❗M-prefered cart is the best one (*most right function, calculated statistically*) - not shown - se above.
 
-TO be more creative in modeling, as models are contepoarary stories about economics, I want again fuzzy_parition for M-preferred chart of goods:
+TO be more creative in modeling ✔️, as models are contepoarary stories about economics, I want again fuzzy_parition for M-preferred chart of goods:
 
 > m_pref = fuzzy_partition(varnames = c(x = 1 , y=2, z=1), FUN = fuzzy_cone, radius = 8)
 
