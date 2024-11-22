@@ -41,7 +41,8 @@ and uses fuzzy sets.
 
 > Fuzzy sets features for modeling.
 
-Other topics are not included:
+Other topics:
+This will be added later, gradually.
 
 * market model
 * production 
