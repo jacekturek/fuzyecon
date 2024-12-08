@@ -4,13 +4,11 @@ I want to use R laguage library for fuzzy sets, and write about
 
 > *AI and fuzzy logic*
 
-in this context.
-
 The ("sets") library in R is a tool where fuzzy logic is implemented.
 
-> e.g. fuzzy inference, fuzzy system, fuzzy rules and other.
+> examples are: fuzzy inference, fuzzy system, fuzzy rules and other.
 
-It is iteresting to learn about the features of fuzzy sets as well as fuzzy logic to use AI in econometric modeling.
+It is iteresting to learn about the features of fuzzy sets as well as fuzzy logic to use AI in modeling.
 
 ## 
 
