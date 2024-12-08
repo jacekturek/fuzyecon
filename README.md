@@ -41,9 +41,6 @@ and uses fuzzy sets.
 
 This will be later:
 
-> other topis are not included
-> models in R are similar
-
 * market model
 * production 
 * dynamic models
