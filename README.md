@@ -28,7 +28,7 @@ here, under: fuzzy_inferecne are some details about how to use it:
 
 https://cran.r-project.org/web/packages/sets/sets.pdf
 
-These topica are modeled in R:
+These topics are modeled in R:
 
 * demand theory
   * preference relations, 
@@ -37,7 +37,7 @@ These topica are modeled in R:
   * demand function,
   * derivatives in utility function 
 
-and uses fuzzy sets. 
+using fuzzy sets library. 
 
 > other topics can be modeled in a similar way
 
