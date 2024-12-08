@@ -28,7 +28,7 @@ here, under: fuzzy_inferecne are some details about how to use it:
 
 https://cran.r-project.org/web/packages/sets/sets.pdf
 
-R language and fuzzy sets library:
+These topica are modeled in R:
 
 * demand theory
   * preference relations, 
@@ -39,11 +39,9 @@ R language and fuzzy sets library:
 
 and uses fuzzy sets. 
 
-> other topics are similar
-> 
-> R and fuzzy logic is explained in the example
+> other topics can be modeled in a similar way
 
-Other:
+Not included:
 
 * market model
 * production 
