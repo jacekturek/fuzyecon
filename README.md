@@ -37,9 +37,7 @@ These topics are modeled in R:
 
 using fuzzy sets library. 
 
-> other topics can be modeled in a similar way
-
-Not included:
+Later:
 
 * market model
 * production 
