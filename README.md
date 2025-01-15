@@ -47,6 +47,6 @@ Later:
 
 * Thank you.
 
-More: 
+The knowledge about the subject mathematical economics:
 
 https://www.ksiegarnia.beck.pl/3934-ekonomia-matematyczna-materialy-do-cwiczen-joanna-gorka
