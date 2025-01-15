@@ -18,7 +18,7 @@ It is iteresting to learn about the features of fuzzy sets as well as fuzzy logi
 > 
 > ℹ️ fuzzy sets can be a good research idea
 > 
-> ℹ️ combined with the mathematical economics will show some insights into the AI
+> ℹ️ combined with the mathematical economics will show some insights into R and AI
 
 Here is the description on how to use some features of the fuzzy set "sets" lib:
 
