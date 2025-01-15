@@ -24,10 +24,6 @@ Here is the description on how to use some features of the fuzzy set "sets" lib:
 
 https://juandes.github.io/FuzzyLogic-R/docs/fuzzy_tutorial
 
-here, under: fuzzy_inferecne are some details about how to use it:
-
-https://cran.r-project.org/web/packages/sets/sets.pdf
-
 These topics are modeled in R:
 
 * demand theory
