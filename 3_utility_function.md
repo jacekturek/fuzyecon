@@ -2,6 +2,7 @@ In short mathematically related function U with preference relation is called ut
 Without formulas you can describe the utility function as continuoes as the relation of preference is continuous.
 In R^n+ which is the space of goods. 
 
+> #cone is one of the possible functions
 > utility <- fuzzy_cone(center = NULL, radius = 1, height = 1, return_base_corners=TRUE)
 >
 > plot(utility)
