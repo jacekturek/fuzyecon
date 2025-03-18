@@ -19,3 +19,11 @@ Here is my AI simulation, with fuzzy sets of a cotnunuous utiility function:
 > .N.(c(2,2,1))
 > 
 > [1] -1 -1  0
+
+For cars (if we have a look on a market) let us prove the I Law Gossen about margin utility:
+
+> .I.(c(2,2,4),c(2,2,1))
+>
+> [1] 1 1 1
+
+It doesn't work in this example.
