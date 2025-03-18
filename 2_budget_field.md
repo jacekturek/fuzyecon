@@ -20,7 +20,7 @@ The set of 'shopping carts' for which ... ⊕ ... <= I are called to be possible
 
 > #vegetables, bread+water, oranges
 > 
-> A <- gset(letters[1:3], memberships = c(1,3,2))
+> A <- gset(letters[1:3], memberships = c(1,3,2)) [^1]
 > 
 > plot(A)
 
@@ -48,3 +48,5 @@ Here's a model:
 > .N.(charts_budg_field)
 > 
 > [1] -1 -1 -7
+
+[^1]: gset is a generlized set (element, membership)
