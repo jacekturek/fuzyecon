@@ -10,7 +10,7 @@ The ("sets") library in R is a tool where fuzzy logic is implemented.
 
 It is iteresting to learn about the features of fuzzy sets as well as fuzzy logic to use AI in modeling.
 
-> AI can find solutions and search for them in a set of possible solutions. In regular form, the equations are important - but here I can use fuzzy logic to find the solutions within some boundaries.
+> AI can find solutions and search for them in a set of possible solutions. In regular form, the equations are important - but here I can use fuzzy logic to find the solutions within some fuzzy logic boundaries.
 
 ## 
 
