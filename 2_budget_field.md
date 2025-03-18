@@ -45,8 +45,9 @@ Here's a model:
 
 > charts_budg_field <- c(2,2,8)
 > 
-> .N.(charts_budg_field)
+> .N.(charts_budg_field) [^2]
 > 
 > [1] -1 -1 -7
 
 [^1]: gset is a generlized set (element, membership)
+[^2]: fuzzy negation
