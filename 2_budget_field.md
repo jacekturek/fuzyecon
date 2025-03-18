@@ -49,5 +49,5 @@ Here's a model:
 > 
 > [1] -1 -1 -7
 
-[^1]: gset is a generlized set (element, membership)
+[^1]: gset is a generlized set (element, membership function)
 [^2]: fuzzy negation
