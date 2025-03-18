@@ -22,8 +22,10 @@ Here is my AI simulation, with fuzzy sets of a cotnunuous utiility function:
 
 📉 For cars (if we have a look on a market) let us prove the I Law Gossen about margin utility:
 
-> .I.(c(2,2,4),c(2,2,1))
+> .I.(c(2,2,4),c(2,2,1)) [^1]
 >
 > [1] 1 1 1
 
 It doesn't work in this example.
+
+[^1]: Here the funcion .I. means fuzzy implication (similar to the .N. - fuzzy negation).
