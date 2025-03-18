@@ -37,7 +37,7 @@ The fuzzy sets are good for showing budgets:
 
 ![image](https://github.com/jacekturek/fuzyecon/assets/62720909/c45da371-3361-4be9-8f79-ef3141fbd09a)
 
-The *Z(Vp,I)-optimal* shopping cart is a Vector within the budget
+📊 The *Z(Vp,I)-optimal* shopping cart is a Vector within the budget
 > for which any other cart is worse (perf. rel is in other part).
 
 Can looking for the Z(p,I) prefered shopping cart be modeled with fuzzy negation?
