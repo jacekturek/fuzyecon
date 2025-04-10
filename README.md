@@ -12,15 +12,9 @@ It is iteresting to learn about the features of fuzzy sets as well as fuzzy logi
 
 ## 
 
-> ℹ️ fuzzy sets are a part of the Artificial Inteligence toolkit
-> 
-> ℹ️ fuzzy sets can be a good research idea
-> 
-> ℹ️ combined with the mathematical economics will show some insights into R and AI
+> ℹ️ Fuzzy sets with the mathematical economics will show some insights into R and AI
 
 Here is the description on how to use some features of the fuzzy set "sets" lib:
-
-https://juandes.github.io/FuzzyLogic-R/docs/fuzzy_tutorial
 
 These topics are modeled in R:
 
@@ -41,7 +35,7 @@ Later:
 
 * Thank you.
 
-The knowledge about the subject mathematical economics:
+The knowledge for the economics:
 
 https://www.ksiegarnia.beck.pl/3934-ekonomia-matematyczna-materialy-do-cwiczen-joanna-gorka
 
