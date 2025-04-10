@@ -4,7 +4,7 @@ I want to use R laguage library for fuzzy sets, and write about
 
 > *AI and fuzzy logic*
 
-The ("sets") library in R is a tool where fuzzy logic is implemented.
+The ("sets") library in R is a tool where fuzzy logic is implemented. [^1]
 
 > examples are: fuzzy inference, fuzzy system, fuzzy rules and other.
 
@@ -46,3 +46,5 @@ Later:
 The knowledge about the subject mathematical economics:
 
 https://www.ksiegarnia.beck.pl/3934-ekonomia-matematyczna-materialy-do-cwiczen-joanna-gorka
+
+[^1]: Fuzzy logic is accessible in excel in PowerQuery
