@@ -16,9 +16,9 @@ Fuzzy logic deals with reasoning that is approximate rather than fixed and exact
 
 > ℹ️ Fuzzy sets with the mathematical economics will show some insights into R and AI
 
-Here is the description on how to use some features of the fuzzy set "sets" lib:
+Computational methods solve economic models and analyze data. 
 
-These topics are modeled in R:
+> Here is the list of topics that can be in this project:
 
 * demand theory
   * preference relations, 
