@@ -37,7 +37,7 @@ Later:
 
 * Thank you.
 
-Mathematica economics used in this project:
+Mathematical economics used in this project:
 
 https://www.ksiegarnia.beck.pl/3934-ekonomia-matematyczna-materialy-do-cwiczen-joanna-gorka
 
