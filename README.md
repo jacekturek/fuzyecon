@@ -10,7 +10,7 @@ It is iteresting to learn about the features of fuzzy sets as well as fuzzy logi
 
 > Fuzzy logic in economics
 
-Fuzzy logic deals with reasoning that is approximate rather than fixed and exact. It can model and analyze situations where uncetrainity or imprecision exists. These situations involve subjective human behaviour, incomplete information. Apart from the topics included here the AI in economics can be used for many things like risk assesment, forecasting, consumer behaviour etc.
+Fuzzy logic deals with reasoning that is approximate rather than fixed and exact. It can model and analyze situations where uncetrainity or imprecision exists. These situations involve subjective human behaviour, incomplete information. Apart from the topics included here the AI in economics can be used for like risk assesment, forecasting, consumer behaviour etc.
 
 ## 
 
