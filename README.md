@@ -6,7 +6,8 @@ I want to use R laguage library for fuzzy sets, and write about
 
 The ("sets") library in R is a tool where fuzzy logic is implemented. [^1]
 
-It is iteresting to learn about the features of fuzzy sets as well as fuzzy logic to use AI in economic modeling.
+It is iteresting to learn about the features of fuzzy sets as well as fuzzy logic to use AI in economic modeling. Fuzzy logic deals with reasoning and decision-making. In fuzzy sets the membership is a matter of degree. It can mimic human reasoning, handle imprecise and noisy data.
+
 
 > AI can find soluctions in a sets of possible solutions. The forumlas are equations but here I want to use AI simulations to count the result.
 
