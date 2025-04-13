@@ -11,4 +11,4 @@ What makes it suitable here:
 * requirements - trying to model some data with fyzzy sets and fuzzy logic
 * design - keeping here the models and some code
 * development - R language
-* testing - whether the data can be proved in real life
+* testing - exploratory testing / like other statistics
