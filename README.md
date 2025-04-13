@@ -6,7 +6,7 @@ I want to use R laguage library for fuzzy sets, and write about
 
 The ("sets") library in R is a tool where fuzzy logic is implemented. [^1]
 
-It is iteresting to learn about the features of fuzzy sets as well as fuzzy logic to use AI in economic modeling. Fuzzy logic deals with reasoning and decision-making. In fuzzy sets the membership is a matter of degree. It can mimic human reasoning, handle imprecise and noisy data. Disadvantages are the AI may not be as precise as other methods (here: equations) it may be subjective in defining membership funcions and rules.
+It is iteresting to learn about the features of fuzzy sets as well as fuzzy logic to use AI in economic modeling. Fuzzy logic deals with reasoning and decision-making. In fuzzy sets the membership is a matter of degree. It can mimic human reasoning, handle imprecise and noisy data. Disadvantages - the AI may not be as precise as other methods (here: equations) it may be subjective in defining membership funcions and rules.
 
 > Fuzzy logic in economics
 
