@@ -1,14 +1,15 @@
 # fuzyecon
-Mathematical economics is some system of formulas and models for economic science.
+Mathematical economics is mathematical description of the economics.
 I want to use R laguage library for fuzzy sets, and write about
 
 > *AI and fuzzy logic*
 
 The ("sets") library in R is a tool where fuzzy logic is implemented. [^1]
+The library provides features for fuzzy logic and fuzzy sets.
 
 ## 
 
-> ℹ️ Fuzzy sets with the mathematical economics will show some insights into R and AI
+> ℹ️ Fuzzy sets with the mathematical economics is a project about Artificial Intelligence
 
 Computational methods solve economic models and analyze data. 
 
@@ -29,9 +30,7 @@ Later:
 * production 
 * dynamic models
 
-* Thank you.
-
-Mathematical economics used in this project:
+Mathematical economics used in this project can be checked:
 
 https://www.ksiegarnia.beck.pl/3934-ekonomia-matematyczna-materialy-do-cwiczen-joanna-gorka
 
