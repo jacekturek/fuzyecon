@@ -1,6 +1,6 @@
 In short mathematically related function U with preference relation is called utility function. 
 Without formulas you can describe the utility function as continuoes as the relation of preference is continuous.
-In R^n+ which is the space of goods. 
+✏️ R^n+ is the space of goods. 
 
 > #cone is one of the possible functions
 > 
