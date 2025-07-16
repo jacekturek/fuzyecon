@@ -1,18 +1,17 @@
 # Budget field
 
-Assume the consumer has a budget i.e. amount of money she can spend
+Assume the consumer has a budget i.e. amount of money:
 
 > ❗ the 'shopping cart' VectorX
 
 > ❗the prices of each unit in VectorX namely VectorP
-
-Consider the scalar multiplication:
 
 > VectorX ⊕ VecorP <= I
 
 where
 
 > I = budget limit
+> ⊕ - scalar multiplication
 
 The set of 'shopping carts' for which ... ⊕ ... <= I are called to be possible for consumer:
 
