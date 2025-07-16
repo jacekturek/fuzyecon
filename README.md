@@ -13,21 +13,9 @@ The library provides features for fuzzy logic and fuzzy sets.
 
 > Fuzzy sets can be used for modeling as 📌 fuzzy constraints - this is the way to make the models from economical science
 
-Computational methods solve economic models and analyze data. 
-
 > Here is the list of topics that can be in this project:
 
 * demand theory
-  * preference relations, 
-  * budget field,
-  * utility function,
-  * demand function,
-  * derivatives in utility function 
-
-using fuzzy sets library. 
-
-Later:
-
 * market model
 * production 
 * dynamic models
