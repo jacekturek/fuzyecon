@@ -11,6 +11,8 @@ The library provides features for fuzzy logic and fuzzy sets.
 
 > ℹ️ Fuzzy sets with the mathematical economics is a project about Artificial Intelligence
 
+> Fuzzy sets can me used for modeling as 📌 fuzzy constraints - this is the way to make the models from economical science
+
 Computational methods solve economic models and analyze data. 
 
 > Here is the list of topics that can be in this project:
